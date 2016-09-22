@@ -1,8 +1,8 @@
 {
-  "room": "HQM",
-  "author": "Alukard & Tohka",
+  "room": "Draugystės Kampelis",
+  "author": "Code03",
   "icon": null,
-  "css": "https://www.dropbox.com/s/ztl4o8pn5elbu8k/hqm.css?dl=1",
+  "css": "https://www.dropbox.com/s/mb8atcb1b0zk1zx/draugyste.css?dl=1",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot": true,
@@ -16,28 +16,28 @@
   "ccc": {
     "admin": null,
     "ambassador": null,
-    "host": "#7A378B",
-    "cohost": "#da0008",
-    "manager": "#33b4c1",
-    "bouncer": "#60ff00",
-    "rdj": "#f6ff00",
+    "host": "#2ac0fb",
+    "cohost": "#2ac0fb",
+    "manager": "#0061B7",
+    "bouncer": "#00CBBD",
+    "rdj": "#14AA00",
     "subscriber": null,
     "silversubscriber": null,
     "friend": "#905BA1",
     "user": null
   },
   "images": {
-    "background": null,
+    "background": "https://www.dropbox.com/s/et3ol6n34ugw39j/2k15nyc.jpg?dl=1",
     "playback": null,
-    "admin": "http://i.imgur.com/86smil1.png",
-    "ambassador": "http://i.imgur.com/2FZYIrH.png",
-    "host": "http://i.imgur.com/jOa6MZ9.png",
-    "cohost": "http://i.imgur.com/Pqe3ST1.png",
-    "manager": "http://i.imgur.com/vkYRDZp.png",
-    "bouncer": "http://i.imgur.com/MjyU3Wh.png",
-    "rdj": "http://i.imgur.com/hulQ9hO.png",
-    "subscriber": "http://i.imgur.com/gYyGQel.png",
-    "silversubscriber": "http://i.imgur.com/tm0SRdE.png"
+    "admin": null,
+    "ambassador": null,
+    "host": null,
+    "cohost": null,
+    "manager": null,
+    "bouncer": null,
+    "rdj": null,
+    "subscriber": null,
+    "silversubscriber": "https://dl.dropboxusercontent.com/s/ix0gwve0k4i21op/SilverSub.png"
   },
   "autocomplete": [
 
