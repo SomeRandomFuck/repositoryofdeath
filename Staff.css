@@ -1,0 +1,44 @@
+/* Kodas */
+#user-lists .list.room .user.role-manager.id-3427443 .name {
+    color: #b36200 !important;
+}
+/* Kodas */
+
+/* Staff */
+.icon-chat-ambassador + span {
+    color: #b36200 !important;
+}
+.icon-chat-host + span {
+    color: #7A378B !important;
+}
+.icon-chat-cohost + span {
+    color: #da0008 !important;
+}
+.icon-chat-manager + span {
+    color: #0061B7 !important;
+}
+.icon-chat-bouncer + span {
+    color: #00CBBD !important;
+}
+.icon-chat-dj + span {
+    color: #14AA00 !important;
+}
+.icon-chat-ambassador {
+	background: url("http://i.imgur.com/crYGkCU.png") !important;
+}
+.icon-chat-host {
+	background: url("http://i.imgur.com/JMWUnwi.png") !important;
+}
+.icon-chat-cohost {
+	background: url("http://i.imgur.com/3pUulvj.png") !important;
+}
+.icon-chat-manager {
+	background: url("http://i.imgur.com/gZG9s5J.png") !important;
+}
+.icon-chat-bouncer {
+	background: url("http://i.imgur.com/mlI4aem.png") !important;
+}
+.icon-chat-dj {
+	background: url("http://i.imgur.com/PKsoScx.png") !important;
+}
+/* Staff */
