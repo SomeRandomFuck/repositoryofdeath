@@ -207,3 +207,24 @@ background: #25b961 !important;
       text-decoration: none;
       transition: 100ms linear 50ms;
 }
+/* Tohka */
+
+[data-cid^="13760153-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left: 18px;
+    background-image: url('http://i.imgur.com/U45rOq8.png');
+    background-repeat: no-repeat;
+    background-position: -1px center;
+    background-size: 15px auto;
+}
+#chat-messages .id-13760153 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/mAFf0Kg.gif');
+        background-size:        cover;
+}
+
+#user-rollover.id-13760153 .info .badge-box .bdg {
+	background: url(http://i.imgur.com/mAFf0Kg.gif)
+        center no-repeat!important;
+}
