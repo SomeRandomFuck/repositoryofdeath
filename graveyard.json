@@ -2,7 +2,7 @@
   "room": "Graveyard Rock",
   "author": "Alucard",
   "icon": null,
-  "css": "https://www.dropbox.com/s/igfe9vci4odw0cu/grave.css?dl=1",
+  "css": "https://rawgit.com/SomeRandomFuck/repositoryofdeath/master/grave.css",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot": true,
